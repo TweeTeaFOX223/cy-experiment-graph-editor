@@ -25,7 +25,7 @@
 # 概要と機能
 Cytoscape.jsを利用したグラフ(ネットワーク図)の、試験的エディタアプリ。  
 別リポジトリの「[cy-minimum-graph-viewer](https://github.com/TweeTeaFOX223/cy-minimum-graph-viewer)」に編集機能を追加したもの。  
-ビューワに機能追加しようと思ったけど、コードが複雑＋動作不安定になったので別にした。  
+ビューワに機能追加しようと思ったけど、コードが複雑になったので別にした。  
 
 [diagrams.net](https://www.drawio.com/)のような編集を、Cytoscape.jsのグラフでやりたいと思って作った。  
 グループの構造があるネットワーク図をGUIで簡単に作成することができます。  
