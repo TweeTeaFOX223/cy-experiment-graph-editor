@@ -140,12 +140,21 @@ https://www.microsoft.com/ja-jp/microsoft-365/powerpoint
 Copyright (c) 2016-2022, The Cytoscape Consortium.  
 https://github.com/cytoscape/cytoscape.js/  
 https://www.npmjs.com/package/cytoscape  
-https://www.npmjs.com/package/cytoscape-context-menus  
 
 - cytoscape-context-menus　：MIT  
 Copyright (c) 2019 iVis-at-Bilkent  
 https://github.com/iVis-at-Bilkent/cytoscape.js-context-menus  
 https://www.npmjs.com/package/cytoscape-context-menus  
+
+- cytoscape-edge-editing ：MIT  
+Copyright (c) 2019 iVis-at-Bilkent  
+https://github.com/iVis-at-Bilkent/cytoscape.js-edge-editing  
+https://www.npmjs.com/package/cytoscape-edge-editing  
+
+- cytoscape-edgehandles ：MIT  
+Copyright (c) 2016-2019, 2021, The Cytoscape Consortium.  
+https://github.com/cytoscape/cytoscape.js-edgehandles  
+https://www.npmjs.com/package/cytoscape-edgehandles  
 
 - cytoscape.js-undo-redo ：MIT    
 Copyright (c) 2019 iVis-at-Bilkent  
