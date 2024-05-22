@@ -1,0 +1,10 @@
+[
+{"data":{"group":"nodes","id":"01_A","label":"A"},"position":{"x":-11.294701740137688,"y":-10.074334573666524},"group":"nodes"},
+{"data":{"group":"nodes","id":"01_B","label":"B"},"position":{"x":-68.33484312707273,"y":85.75310295638437},"group":"nodes"},
+{"data":{"group":"nodes","id":"01_C","label":"C"},"position":{"x":99.74344015976259,"y":47.72634203176099},"group":"nodes"},
+
+{"data":{"source":"01_A","target":"01_B","id":"test1","label":"test1"},"position":{"x":0,"y":0},"group":"edges"},
+{"data":{"source":"01_B","target":"01_C","id":"test2","label":"test2"},"position":{"x":0,"y":0},"group":"edges"},
+{"data":{"source":"01_C","target":"01_A","id":"test3","label":"test3"},"position":{"x":0,"y":0},"group":"edges"},
+{"data":{"source":"01_A","target":"01_C","id":"test4","label":"test4"},"position":{"x":0,"y":0},"group":"edges"}
+] 
