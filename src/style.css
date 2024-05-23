@@ -1,3 +1,6 @@
+/* インポート済みのfontawesomeを導入 */
+@import "fontawesome-4.7/css/font-awesome.min.css";
+
 /* アプリの性質上,はみ出した要素は画面外行きにする */
 body {
   white-space: nowrap;
