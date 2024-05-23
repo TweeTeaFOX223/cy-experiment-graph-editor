@@ -51,8 +51,9 @@ Cytoscape.jsを利用したグラフ(ネットワーク図)の、試験的エデ
 
 # このアプリを今すぐ使用する方法
 ## オンライン：GitHub Pagesで使用
-<b>npmとViteを使ってビルドしたものがGitHub Pagesにあります！</b>
-
+<b>npmとViteを使ってビルドしたものがGitHub Pagesにあります！</b>  
+https://tweeteafox223.github.io/cy-experiment-graph-editor/  
+<br>
 
 ## ローカル・オフライン：ビルド済みの単一htmlを開いて使用
 `dist-offline/index.html`をダウンロードし、  
