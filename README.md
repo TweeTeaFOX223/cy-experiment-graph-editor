@@ -3,7 +3,7 @@
 - [概要と機能](#概要と機能)
   - [別リポジトリにあるビューワと共通の機能](#別リポジトリにあるビューワと共通の機能)
   - [このエディタで追加した機能(拡張機能利用で作成)](#このエディタで追加した機能拡張機能利用で作成)
-- [このアプリを今すぐ使用する方法](#このアプリを今すぐ使用する方法)
+- [★このアプリを今すぐ使用する方法](#このアプリを今すぐ使用する方法)
   - [オンライン：GitHub Pagesで使用](#オンラインgithub-pagesで使用)
   - [ローカル・オフライン：ビルド済みの単一htmlを開いて使用](#ローカルオフラインビルド済みの単一htmlを開いて使用)
 - [グラフデータ(json)のサンプル](#グラフデータjsonのサンプル)
@@ -49,7 +49,7 @@ Cytoscape.jsを利用したグラフ(ネットワーク図)の、試験的エデ
 
 <br>
 
-# このアプリを今すぐ使用する方法
+# ★このアプリを今すぐ使用する方法
 ## オンライン：GitHub Pagesで使用
 <b>npmとViteを使ってビルドしたものがGitHub Pagesにあります！</b>  
 https://tweeteafox223.github.io/cy-experiment-graph-editor/  
@@ -59,6 +59,10 @@ https://tweeteafox223.github.io/cy-experiment-graph-editor/
 `dist-offline/index.html`をダウンロードし、  
 ブラウザでindex.htmlを開くことで使用可能です。  
 ローカルかつオフライン環境でも動作可能です。  
+
+下記のリンクに入り、右上の「・・・」→「Download」を押す、  
+又は、中央付近にある「↓」のボタンを押すとダウンロードできます。  
+https://github.com/TweeTeaFOX223/cy-experiment-graph-editor/blob/main/dist-offline/index.html
 <br>
 
 # グラフデータ(json)のサンプル
