@@ -1,0 +1,3 @@
+# ビルド済みのオフライン用htmlファイルを
+# GitHubの統計のやつから除外して言語比を正常にする
+dist-offline/* linguist-vendored
