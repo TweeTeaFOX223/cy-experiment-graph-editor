@@ -29,6 +29,28 @@ Cytoscape.jsを利用したグラフ(ネットワーク図)の、試験的エデ
 
 [diagrams.net](https://www.drawio.com/)のような編集を、Cytoscape.jsのグラフでやりたいと思って作った。  
 グループの構造があるネットワーク図をGUIで簡単に作成することができます。  
+<br>  
+
+| 技術    | 使用しているもの                                   |
+| ---------- | ---------------------------------------------- |
+| 言語| html・JavaScript・css                 |
+| 開発とビルド   | viteとvite-plugin-singlefile(MITライセンス) |
+<br>  
+
+| JavaScriptの機能 | 使用しているライブラリ |
+| ---------- | ---------------------------------------------- |
+| グラフの表示全般| cytoscape.js(MITライセンス)                 |
+| グラフのundoとredo| cytoscape.js-undo-redo(MITライセンス)                 |
+| グラフのパンズーム| cytoscape.js-panzoom(MITライセンス)                 |
+| グラフの階層表示| cytoscape.js-dagre(MITライセンス)                 |
+| グラフのコンテキストメニュー| cytoscape-context-menus(MITライセンス)                 |
+| グラフのエッジの編集| cytoscape-edge-editing(MITライセンス)                 |
+| グラフのエッジの作成| cytoscape-edgehandles(MITライセンス)                 |
+| ファイルの保存とDL| FileSaver.js(MITライセンス)                 |
+| モーダルウィンドウ| Micromodal.js(MITライセンス)                 |
+<br>
+
+
 <br>
 
 ## 別リポジトリにあるビューワと共通の機能
