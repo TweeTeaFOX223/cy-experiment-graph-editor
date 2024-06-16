@@ -8,6 +8,9 @@ on:
   # デフォルトブランチを対象としたプッシュ時にで実行されます
   push:
     branches: ['main']
+    # dist-offline/に変更があった時だけデプロイ
+    paths:
+      - "dist-offline/**"
 
   # Actions タブから手動でワークフローを実行できるようにします
   workflow_dispatch:
